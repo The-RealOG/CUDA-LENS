@@ -30,9 +30,9 @@
 ### Build Instructions
 
 ```bash
-git clone https://github.com/the-realOG/blitzFilter.git
-cd blitzFilter
+git clone https://github.com/the-realOG/CUDA-LENS.git
+cd "CUDA LENS"
 mkdir build && cd build
 cmake ..
 make
-./blitzFilter
+./CUDA LENS
